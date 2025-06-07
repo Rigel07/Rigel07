@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rigel07 aka Pranav Chandak :)
+- 👋 Hi, I’m Pranav Chandak aka @Rigel07 :)
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning C++ and Full Stack Development.
 - 👀 I’m interested in tech, games and astronomy!
